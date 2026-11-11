@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358754252538",
+    "project_id": "firstproject-daca4",
+    "storage_bucket": "firstproject-daca4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358754252538:android:98da011ea61f2ac26dfb43",
+        "android_client_info": {
+          "package_name": "com.example.posts_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8yp2gLtCLr-6MB_PlfK8ybQn9OWlzfo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
